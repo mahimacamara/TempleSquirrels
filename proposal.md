@@ -14,7 +14,7 @@ TODO
 My software will run a pacman like game with a squirrel instead of chasing nuts. I really want to incorporate a login page that possibly saves user information. It will keep track of score and also have a game ending point. 
 ## If planning to combine 1051's final project with another course's final project, with which other course? And which aspect(s) of your proposed project would relate to 1051, and which aspect(s) would relate to the other course?
 
-TODO, if applicable N/A
+TODO, if applicable N/A Michael Humphrey 
 
 ## If planning to collaborate with 1 or 2 classmates for the final project, list their names, email addresses, and the names of their assigned TAs below.
 
